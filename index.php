@@ -34,6 +34,8 @@
                 <a href="https://x.com/"><i class="fa-brands fa-square-twitter"></i></a><span>Twitter</span>
                <a href="https://www.youtube.com/"> <i class="fa-brands fa-youtube"></i></a><span>Youtube</span>
        </div>
+       <img src="assest/points.png" alt="" class="points2">
+       <img src="assest/decoration2.png" alt="" class="decoTwo">
   </div>
   <div class="two">
   </div>
