@@ -54,6 +54,9 @@
      position: relative;
      top: -3rem;
  }
+ .decoTwo{
+    margin-left: 23rem;
+}
  .one h1 {
     color: white;
     height: 10rem;
@@ -87,4 +90,11 @@
 .liens span{
     color: brown;
     padding-left: 1rem;
+}
+.points1{
+    margin-left: 30rem;
+    margin-top: 1rem;
+}
+.points2{
+    margin-top: 3rem;
 }

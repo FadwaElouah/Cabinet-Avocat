@@ -21,24 +21,28 @@
        </div>
 </header>
 <section class="section1">
-  <div class="one">
-      <img src="assest/decoration2.png" alt="" class="decoOne">
-      <img src="assest/points.png" alt="" class="points1">
-      <p class="welcome">Welcome Back!!</p> 
-      <img src="assest/decoration1.png" alt="" class="deco">
-      <h1>Justice</h1>
-      <p class="contact">Contact Us</p>
-      <div class="liens">
+   <div class="one">
+       <img src="assest/decoration2.png" alt="" class="decoOne">
+       <img src="assest/points.png" alt="" class="points1">
+       <p class="welcome">Welcome Back!!</p> 
+       <img src="assest/decoration1.png" alt="" class="deco">
+       <h1>Justice</h1>
+       <p class="contact">Contact Us</p>
+       <div class="liens">
                <a href="https://fr-fr.facebook.com/"> <i class="fa-brands fa-square-facebook"></i></a><span>Facebook</span>
                 <a href="https://www.instagram.com/"><i class="fa-brands fa-square-instagram"></i></a><span>Instagram</span>
                 <a href="https://x.com/"><i class="fa-brands fa-square-twitter"></i></a><span>Twitter</span>
                <a href="https://www.youtube.com/"> <i class="fa-brands fa-youtube"></i></a><span>Youtube</span>
-       </div>
-       <img src="assest/points.png" alt="" class="points2">
-       <img src="assest/decoration2.png" alt="" class="decoTwo">
-  </div>
-  <div class="two">
-  </div>
+        </div>
+        <img src="assest/points.png" alt="" class="points2">
+        <img src="assest/decoration2.png" alt="" class="decoTwo">
+    </div>
+    <div class="two">
+        <img src="assest/decoration2.png" alt="" class="decoThree">
+        <img src="assest/avocat.png" alt="">
+        <img src="assest/image1.png" alt="">
+   
+    </div>
 
 </section>
             
