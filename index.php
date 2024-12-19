@@ -22,10 +22,10 @@
 </header>
 <section class="section1">
   <div class="one">
-  <img src="assest/decoration2.png" alt="" class="decoOne">
-  <img src="assest/points.png" alt="" class="points1">
-            <p class="welcome">Welcome Back!!</p> 
-            <img src="assest/decoration1.png" alt="" class="deco">
+      <img src="assest/decoration2.png" alt="" class="decoOne">
+      <img src="assest/points.png" alt="" class="points1">
+      <p class="welcome">Welcome Back!!</p> 
+      <img src="assest/decoration1.png" alt="" class="deco">
   </div>
   <div class="two">
   </div>
