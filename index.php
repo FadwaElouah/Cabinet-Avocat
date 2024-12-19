@@ -26,6 +26,7 @@
       <img src="assest/points.png" alt="" class="points1">
       <p class="welcome">Welcome Back!!</p> 
       <img src="assest/decoration1.png" alt="" class="deco">
+      <h1>Justice</h1>
   </div>
   <div class="two">
   </div>
