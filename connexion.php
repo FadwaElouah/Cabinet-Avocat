@@ -34,7 +34,7 @@
                 <label for="password-login">Mot de passe</label>
                 <input type="password" id="password-login" name="password" required>
              </div>
-
+             <button type="submit">Se connecter</button>
                    
             </form>
     </div>
