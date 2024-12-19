@@ -20,6 +20,13 @@
          <a href="connexion.php">Connexion</a>
        </div>
 </header>
+<section class="section1">
+  <div class="one">
+  </div>
+  <div class="two">
+  </div>
+
+</section>
             
 
       
