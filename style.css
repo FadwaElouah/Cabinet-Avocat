@@ -64,3 +64,27 @@
    
     background: linear-gradient(to left, rgb(9, 77, 9),rgb(41, 216, 41));
 }
+.one .contact{
+    text-align: center;
+    font-size: 2rem;
+    font-family: sans-serif;
+    color: green;
+    letter-spacing: 3px;
+    margin-top: 2rem;
+}
+.liens{
+    text-align: center;
+    margin-top: 1rem;
+     
+}
+.liens i{
+    color: green;
+    padding-left: 2rem; 
+}
+.liens i:hover{
+    opacity: 0.7;
+}
+.liens span{
+    color: brown;
+    padding-left: 1rem;
+}
