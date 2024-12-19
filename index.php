@@ -28,6 +28,12 @@
       <img src="assest/decoration1.png" alt="" class="deco">
       <h1>Justice</h1>
       <p class="contact">Contact Us</p>
+      <div class="liens">
+               <a href="https://fr-fr.facebook.com/"> <i class="fa-brands fa-square-facebook"></i></a><span>Facebook</span>
+                <a href="https://www.instagram.com/"><i class="fa-brands fa-square-instagram"></i></a><span>Instagram</span>
+                <a href="https://x.com/"><i class="fa-brands fa-square-twitter"></i></a><span>Twitter</span>
+               <a href="https://www.youtube.com/"> <i class="fa-brands fa-youtube"></i></a><span>Youtube</span>
+       </div>
   </div>
   <div class="two">
   </div>
