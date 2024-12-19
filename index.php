@@ -27,6 +27,7 @@
       <p class="welcome">Welcome Back!!</p> 
       <img src="assest/decoration1.png" alt="" class="deco">
       <h1>Justice</h1>
+      <p class="contact">Contact Us</p>
   </div>
   <div class="two">
   </div>
