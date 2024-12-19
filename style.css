@@ -1,0 +1,29 @@
+/* Style global */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.container {
+    background-color: #fff;
+    width: 100%;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    display: flex ;
+    justify-content: space-between;
+}
+.container span{
+    font-family: sans-serif;
+    font-weight: bold;
+    color: brown;
+}
+.link a{
+  text-decoration: none;
+  margin-right: 3rem;
+  font-family: sans-serif;
+  color: brown;
+}
