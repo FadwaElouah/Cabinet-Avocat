@@ -22,6 +22,7 @@
 </header>
 <section class="section1">
   <div class="one">
+  <img src="assest/decoration2.png" alt="" class="decoOne">
   </div>
   <div class="two">
   </div>
