@@ -21,6 +21,24 @@
          <a href="connexion.php">Connexion</a>
        </div>
 </header>
+<section>
+   <div class="form-box">
+        <h2>Connexion</h2>
+        <form action="login.php" method="POST">
+            <div class="form-group">
+                <label for="email-login">Email</label>
+                <input type="email" id="email-login" name="email" required>
+            </div>
+
+            <div class="form-group">
+                <label for="password-login">Mot de passe</label>
+                <input type="password" id="password-login" name="password" required>
+             </div>
+
+                   
+            </form>
+    </div>
+</section>
 
 <script src="app.js"></script>
 </body>
