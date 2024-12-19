@@ -16,6 +16,7 @@
          <span>Justice</span>
        </div>
        <div class="link">
+         <a href="#Home">Home</a>
          <a href="inscription.php">Inscription</a>
          <a href="connexion.php">Connexion</a>
        </div>
