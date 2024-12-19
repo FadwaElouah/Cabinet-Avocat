@@ -10,7 +10,16 @@
 </head>
 
 <body>
-   
+<header class="container">
+       <div>
+         <i class="fa-solid fa-scale-balanced"></i>
+         <span>Justice</span>
+       </div>
+       <div class="link">
+         <a href="inscription.php">Inscription</a>
+         <a href="connexion.php">Connexion</a>
+       </div>
+</header>
             
 
       
