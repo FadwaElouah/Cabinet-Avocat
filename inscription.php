@@ -24,20 +24,20 @@
  <section>
     <div class="form-box">
         <h2>Inscription</h2>
-        <form action="register.php" method="POST">
+        <form  method="POST">
             <div class="form-group">
                 <label for="username">Nom d'utilisateur</label>
-                <input type="text" id="username" name="username" required>
+                <input type="text"  name="username" required>
             </div>
 
             <div class="form-group">
                 <label for="email">Email</label>
-                <input type="email" id="email" name="email" required>
+                <input type="email" name="email" required>
             </div>
 
             <div class="form-group">
                 <label for="password">Mot de passe</label>
-                <input type="password" id="password" name="password" required>
+                <input type="password"  name="password" required>
             </div>
 
              <div class="form-group">
@@ -53,7 +53,6 @@
       </div>
  </section>
 
-<script src="app.js"></script>
 </body>
 
 </html>

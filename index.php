@@ -42,6 +42,7 @@
         <img src="assest/decoration2.png" alt="" class="decoThree">
         <img src="assest/avocat.png" alt="">
         <img src="assest/image1.png" alt="">
+       
    
     </div>
 
@@ -51,7 +52,7 @@
       
         
 
-<script src="app.js"></script>
+
 </body>
 
 </html>

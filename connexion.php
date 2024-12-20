@@ -24,10 +24,10 @@
 <section>
    <div class="form-box">
         <h2>Connexion</h2>
-        <form action="login.php" method="POST">
+        <form  method="POST">
             <div class="form-group">
-                <label for="email-login">Email</label>
-                <input type="email" id="email-login" name="email" required>
+                <label>Email</label>
+                <input type="email" name="email" required>
             </div>
 
             <div class="form-group">
@@ -40,7 +40,7 @@
     </div>
 </section>
 
-<script src="app.js"></script>
+
 </body>
 
 </html>
